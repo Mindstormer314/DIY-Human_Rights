@@ -1,0 +1,6 @@
+Compilation Command:  g++ Menu\ screen.cpp -I/Users/robertschmidt/Desktop/Coding/C++/SFML/include  -L/Users/robertschmidt/Desktop/Coding/C++/SFML/lib -lsfml-graphics -lsfml-window -lsfml-system   -o game
+
+
+Idea: add all main menu functionality into the mainmenu function:
+1. create classes for the separate screen data that can be easily bundled and input via pointer.
+2. Add info and Credits screens.
